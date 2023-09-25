@@ -1,4 +1,4 @@
-# CybAttT_
+# CybAttT
 cyber-attacks tweets collected using the Twitter API
 
 CybAttT, is a dataset of cyber-attack tweets written in the English language collected using the Twitter API.
